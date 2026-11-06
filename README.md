@@ -39,7 +39,7 @@ Availability and appearance can vary by platform because these styles use Unicod
 
 ## Copyright and Permissions
 
-Copyright (c) 2026 WaqasTechFinds. All rights reserved.
+Copyright (c) 2026 Waqas Tech Finds. All rights reserved.
 
 The project's original source code and materials are protected by copyright. Public availability of this repository does not, by itself, grant permission to copy, modify, redistribute, or reuse the original code or materials. Please read the [`LICENSE`](LICENSE) file for the project's usage notice.
 
