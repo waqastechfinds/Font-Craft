@@ -2,7 +2,7 @@
 
 **Font-Craft** is a browser-based collection of font and text tools for creating stylish Unicode text that you can copy and use in social profiles, messages, and other supported platforms.
 
-**Live website:** https://ilyasrana535-a11y.github.io/Font-Craft/
+**Live website:** https://fontcraft.me/
 
 ## Features
 
@@ -14,13 +14,13 @@
 
 ## Tools
 
-- [Main Font-Craft page](https://ilyasrana535-a11y.github.io/Font-Craft/)
-- [Instagram Bio Fonts](https://ilyasrana535-a11y.github.io/Font-Craft/instagram-bio-fonts.html)
-- [WhatsApp Font Changer](https://ilyasrana535-a11y.github.io/Font-Craft/whatsapp-font-changer.html)
-- [Discord Font Changer](https://ilyasrana535-a11y.github.io/Font-Craft/discord-font-changer.html)
-- [Unicode Font Changer](https://ilyasrana535-a11y.github.io/Font-Craft/unicode-font-changer.html)
-- [Aesthetic Title Generator](https://ilyasrana535-a11y.github.io/Font-Craft/aesthetic-title-generator.html)
-- [Blog](https://ilyasrana535-a11y.github.io/Font-Craft/blog.html)
+- [Main Font-Craft page](https://fontcraft.me/)
+- [Instagram Bio Fonts](https://fontcraft.me/instagram-bio-fonts.html)
+- [WhatsApp Font Changer](https://fontcraft.me/whatsapp-font-changer.html)
+- [Discord Font Changer](https://fontcraft.me/discord-font-changer.html)
+- [Unicode Font Changer](https://fontcraft.me/unicode-font-changer.html)
+- [Aesthetic Title Generator](https://fontcraft.me/aesthetic-title-generator.html)
+- [Blog](https://fontcraft.me/blog.html)
 
 ## Built With
 
@@ -30,7 +30,7 @@
 
 ## How to Use
 
-1. Open the [Font-Craft website](https://ilyasrana535-a11y.github.io/Font-Craft/).
+1. Open the [Font-Craft website](https://fontcraft.me/).
 2. Enter or paste your text into a tool.
 3. Choose a style or formatting option.
 4. Copy the result and paste it into the app or website where you want to use it.
